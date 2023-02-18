@@ -1,0 +1,47 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+
+.header{
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(2,12,69,0.9752275910364145) 22%);
+}
+.menu{
+	margin-top: 50px;
+}
+
+
+.row-div{
+
+display: flex;
+    position: relative;
+    left: 12%;
+  }
+ .btn  {
+ 	position: relative;
+ 	left: 390%;
+ 	
+ }
+   .rk{
+   	    position: relative;
+    left: 600%;
+    top: 38%;
+   }
+   .search {
+   	    position: relative;
+    left: 400%;
+    top: 35%;
+   }
+   .nvvv {
+   	position: relative;
+   	left: 5%;
+   }
+   .nv {
+   	position: relative;
+    left: 33%;
+   }
