@@ -1,0 +1,62 @@
+.middle{
+	    position: relative;
+    top: 25px;
+}
+.btn.btn-primary{
+	position: relative;
+    left: 884%;
+}
+.cart{
+	position: relative;
+    left: 217%;
+}
+.shop{
+	position: relative;
+    left: 3576%;
+}
+  .text {
+   	    position: relative;
+    top: -33px;
+    left: 113px;
+    font-size: 28px;
+    font-weight: bold;
+} 
+.child{
+	    position: relative;
+    top: -56px;
+    left: 114px;
+    font-size: 20px;
+}
+.img{
+	position: relative;
+    top: 30px;
+}
+.card-img1{
+position: sticky;
+    width: 136px;
+}
+.card1{
+	position: relative;
+    top: -134px;
+    left: 174px;
+}
+
+.card2{
+	      position: relative;
+    top: -112px;
+    left: 181px;
+    }
+      <!-- Footer -->
+.imgg{
+	    position: relative;
+    top: -1px;
+    left: 117px;
+}
+.menu{
+	margin-top: 50px;
+}
+.rk{
+	left: 241px;
+    position: relative;
+    top: -105px;
+}

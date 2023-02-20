@@ -39,9 +39,33 @@ display: flex;
    }
    .nvvv {
    	position: relative;
-   	left: 5%;
+    left: 22%;
    }
    .nv {
    	position: relative;
-    left: 33%;
+    left: 81%;
+   }
+   .body{
+   	max-width: 1700px;
+   	margin: auto;
+   	
+   	min-height: 100vh;
+   	display: flex;
+   	flex-direction: column;
+   }
+   .cart{
+   	position: relative;
+   	left: 40%;
+   }
+   .shop{
+   	position: relative;
+   	left: 1300%;
+   }
+   .ig{
+   	position: relative;
+   	right: 2%;
+   }
+   .font{
+   	    position: relative;
+    font-size: 13px;
    }
