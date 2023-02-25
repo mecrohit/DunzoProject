@@ -3,17 +3,44 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-
+}
+.navbar{
+	position: sticky;
+}
+.fruit{
+	position: relative;
+    top: 183px;
+    right: 289px;
 }
 
+.btn1{
+	       position: relative;
+    top: -104px;
+    left: 305px;
+
+}
+.btn2{
+	left: 347px;
+    position: relative;
+    top: -122px;
+}
+.para1{
+	    position: relative;
+    top: -114px;
+    left: 289px;
+        font-size: 20px;
+    font-weight: bold;
+}
 
 .header{
 background: rgb(2,0,36);
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(2,12,69,0.9752275910364145) 22%);
+height: 37px;
 }
 .menu{
 	margin-top: 50px;
 }
+
 
 
 .row-div{
@@ -21,6 +48,11 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(2,12,69,0.97522759103
 display: flex;
     position: relative;
     left: 12%;
+  }
+  .px{
+  	    position: relative;
+    top: -185px;
+    left: 287px;
   }
  .btn  {
  	position: relative;

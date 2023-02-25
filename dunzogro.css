@@ -60,3 +60,74 @@ position: sticky;
     position: relative;
     top: -105px;
 }
+.list3{
+  position: relative;
+    top: -321px;
+    left: 461px;
+}
+.list4{
+      position: relative;
+    top: -547px;
+    left: 701px;
+}
+.list5{
+  position: relative;
+    top: -712px;
+    left: 967px;
+}
+.footer{
+      position: sticky;
+    height: 500px;
+}
+<!--catagory page-->
+.order{
+      position: relative;
+    top: 15px;
+    border: solid ghostwhite;
+}
+.some{
+      color: limegreen;
+    font-size: 22px;
+}
+.no{
+  color:rgb(23 30 48);
+    font-size: 13px;
+}
+.layer{
+      color: rgb(135 140 155);
+    font-size: 16px;
+}
+.mb-3{
+  width: 436px;
+}
+.fo{
+    position: relative;
+    top: 25px;
+    border: solid ghostwhite;
+}
+.fo2{
+      position: relative;
+    top: 17px;
+    left: 30px;
+    border: solid ghostwhite;
+}
+.ch-1{
+font-size: 26px;
+    color: black;
+}
+}
+.ch-2{
+   color: rgb(135 140 155);
+       position: relative;
+    top: -20px;
+}
+.home{
+   color: limegreen;
+    font-size: 12px;
+    position: relative;
+    top: 16px;
+}
+.veg-img{
+      position: relative;
+    top: 45px;
+}
