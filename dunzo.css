@@ -19,6 +19,10 @@
     left: 305px;
 
 }
+.header1{
+	position: relative;
+    top: 30px;
+}
 .btn2{
 	left: 347px;
     position: relative;
@@ -41,8 +45,18 @@ height: 37px;
 	margin-top: 50px;
 }
 
-
-
+.card2{
+	position: relative;
+    left: 63px;
+}
+.card3{
+	position: relative;
+    left: 127px;
+}
+.card4{
+	position: relative;
+    left: 180px;
+}
 .row-div{
 
 display: flex;
