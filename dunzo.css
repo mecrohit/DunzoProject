@@ -28,6 +28,34 @@
     position: relative;
     top: -122px;
 }
+.f1{
+	    position: relative;
+    width: 3rem;
+    top: 22px;
+    left: 26px;
+}
+.f2{
+	position: relative;
+    width: 3rem;
+    top: 20px;
+    left: 8px;
+}
+.f3{
+	position: relative;
+    width: 3rem;
+    top: 35px;
+    left: 14px;
+}
+.f4{
+	position: relative;
+    width: 3rem;
+    top: 35px;
+    left: 14px;
+}
+.card-title{
+	    position: relative;
+    top: 14px;
+}
 .para1{
 	    position: relative;
     top: -114px;
@@ -47,15 +75,15 @@ height: 37px;
 
 .card2{
 	position: relative;
-    left: 63px;
+    left: 18px;
 }
 .card3{
 	position: relative;
-    left: 127px;
+    left: 40px;
 }
 .card4{
 	position: relative;
-    left: 180px;
+    left: 60px;
 }
 .row-div{
 
@@ -114,4 +142,8 @@ display: flex;
    .font{
    	    position: relative;
     font-size: 13px;
+   }
+   .footer{
+   	    position: relative;
+    top: 466px;
    }
